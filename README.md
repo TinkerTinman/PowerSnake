@@ -1,6 +1,6 @@
 # PowerSnake
 
-#Intro
+
 This game was originally created by Kurt Jaegers and is on his website http://www.twentysidedblog.com/a-powershell-snake-game/. 
 
 This game additionally was Imported from my gist, forked from GitHub user dlwyatt who added modifications and improvments after original author.  Namely performace improvments, as stated:
@@ -11,5 +11,5 @@ In this version, the script maintains a 2-dimensional array to track which posit
 
 This game is written entirely in PowerShell and is a take on the classic "Snake".
 
-#Purpose
-Teaching myself PowerShell and using games as a motivation factor.
+
+The Purpose of this is teaching myself PowerShell and using games as a motivation factor.
